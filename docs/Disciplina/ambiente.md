@@ -64,9 +64,9 @@ Agora vamos instalar o ambiente virtual, que permite isolar pastas (projetos) co
 1. Aperte `Ctrl + Shift + P` e selecione **Python: Create Environment...**.
 2. Após a instalação, aparecerá a pasta `.venv`.
 
-![Criação de Ambiente Virtual](../assets/ambiente/venv.png)
+![Criação de Ambiente Virtual](..//assets/ambiente/venv.pngassets/ambiente/venv.png)
 
-[Pasta Venv](../assets/ambiente/pastavenv.png)
+[Pasta Venv](..//assets/ambiente/pastavenv.png)
 
 
 
@@ -74,7 +74,7 @@ Agora vamos instalar o ambiente virtual, que permite isolar pastas (projetos) co
 
 Abra um Terminal para prosseguirmos com a instalação do **MkDocs**, uma ferramenta que cria sites de documentação a partir de arquivos `.md` (Markdown).
 
-[Terminal](../assets/ambiente/terminal.png)
+[Terminal](..//assets/ambiente/terminal.png)
 
 ### Instalação do MkDocs
 ```bash
