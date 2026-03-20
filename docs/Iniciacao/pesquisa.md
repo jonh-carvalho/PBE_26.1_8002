@@ -6,7 +6,7 @@ title: Pesquisa
 # Pesquisa
 ### **1. Capa**
 
-- Tema: 
+- Tema: Estágio
 - Data: 2026.1
 - Stakeholder: Pro-Reitoria Acadêmica
 
