@@ -39,4 +39,58 @@ Carga horária definida pela instituição (geralmente 20-40 horas por semestre)
 - Acessibilidade para alunos com deficiência
 - Incentivos e bolsas para participação
 
+# Mapa Mental (PlantUML)
+
+```plantuml
+@startmindmap
+* Atividades Academicas Complementares
+** 5W2H
+*** What
+**** Enriquecer formacao alem do curriculo obrigatorio
+*** Who
+**** Estudantes
+**** Professores orientadores
+**** Coordenadores de extensao
+*** Where
+**** Universidade
+**** Laboratorios
+**** Projetos comunitarios
+**** Plataformas online
+*** When
+**** Durante o periodo letivo
+**** Cronograma flexivel
+*** Why
+**** Desenvolver competencias praticas
+**** Ampliar conhecimento
+**** Fortalecer curriculo profissional
+*** How
+**** Seminarios e workshops
+**** Projetos de pesquisa e extensao
+**** Monitoria e tutoria
+**** Competicoes academicas
+*** How Much
+**** 20-40 horas por semestre
+** Gestao e Governanca
+*** Criterios de selecao e aprovacao
+*** Validacao e comprovacao de participacao
+*** Integracao com historico academico
+*** Feedback e avaliacao do impacto
+** Suporte ao Estudante
+*** Mentoring e suporte pedagogico
+*** Acessibilidade para alunos com deficiencia
+*** Incentivos e bolsas
+** Plataforma Digital
+*** Registro e gerenciamento
+*** Certificacao de habilidades
+*** Integracao com historico
+*** Modalidades remota e presencial
+** Parcerias
+*** Empresas
+*** Instituicoes externas
+*** Projetos comunitarios
+@endmindmap
+```
+
+
+
 
