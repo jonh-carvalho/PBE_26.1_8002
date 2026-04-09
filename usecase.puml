@@ -1,0 +1,14 @@
+@startsalt
+{
+  {^
+    <b>Pagamento</b>
+  }
+  {
+    () Cartão Crédito (•••• 1234)
+    () PIX
+    () Dinheiro na Entrega
+  }
+  {
+    [Finalizar Pedido] | [Cancelar]
+  }
+}
