@@ -156,6 +156,7 @@ Aqui está o protótipo de **telas do aplicativo de delivery** usando **Salt (Pl
     [Ver Cardápio] | [Voltar]
   }
 }
+@endsalt
 
 @startsalt
 {
