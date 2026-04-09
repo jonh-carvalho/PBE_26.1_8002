@@ -7,6 +7,9 @@
 | __03__ - 12/03/26     | :material-check: [RUP](../assets/Aulas/RUP.pdf) |
 | __04__ - 19/03/26     | :material-check: |
 | __05__ - 26/03/26     | :material-check: Elaboração 5w2h  <br> :material-check:[Brainstorm](../assets/Aulas/O%20processo%20de brainstorm.pdf) e [Mapa Mental](../assets/Aulas/Mapa%20Mental.pdf)|
+| __06__ - 02/04/26     | :material-check: Feriado |
+| __07__ - 09/04/26     | :material-check: [Engenharia de Requisitos](..//assets/Aulas/Engenharia%20de%20Requisitos_Cap05.pdf)  <br> - [Análise OO e UML](../assets/Aulas/AnaliseOO&UML.pdf) <br> - Diagrama de Casos de Uso <br> - [Classes](../assets/Aulas/Classes_Pacotes.pdf) |
+| __08__ - 16/04/26     | :material-check: AP1    |
 <!--
 | __01__ - 06/08/25    | :material-check: Apresentação da Disciplina - Processo de Desenvolvimento <br> :material-check: Processo de Desenvolvimento -[Do Cascata ao Ágil](../assets/Aulas/Do%20Cascata%20ao%20Ágil.pdf) |
 | __02__ - 13/08/25     | :material-check: [Configuração de Ambiente de Desenvolvimento](https://liveestacio-my.sharepoint.com/:w:/g/personal/00661711722_professores_ibmec_edu_br/EU2fCcJwgTFLvWNyOSUtNWABAykAdvtuiY2eOTitau10zA?e=NyuXZm) <br> :material-check: Configuração repositório  |
