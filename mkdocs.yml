@@ -8,11 +8,6 @@ nav:
   - Home: index.md
   - Disciplina:
       - Aulas: Disciplina/aulas.md
-      - Ambiente: Disciplina/ambiente.md
-      - Github: Disciplina/github.md
-      - Mkdocs: Disciplina/mkdocs.md
-      - CodeSpace: Disciplina/codespace.md
-      - Avaliações: Disciplina/avaliacoes.md
       - Roteiros:
         - Iniciação:
           - DT: Disciplina/Roteiros/Iniciacao/04_DesignThinking.md
@@ -27,6 +22,15 @@ nav:
             - Django: Disciplina/Roteiros/Construcao/Django/01_Intro.md
             - Django Rest: Disciplina/Roteiros/Construcao/Django/02_Intro_Django_Rest.md
             - Api Consume: Disciplina/Roteiros/Construcao/Django/03_Consume.md
+          - BD:
+            - Intro SQL: Disciplina/Roteiros/Construcao/BD/pysqlite.ipynb
+            - SQL: Disciplina/Roteiros/Construcao/BD/sqlite.md
+      - Ambiente: Disciplina/ambiente.md
+      - Github: Disciplina/github.md
+      - Mkdocs: Disciplina/mkdocs.md
+      - CodeSpace: Disciplina/codespace.md
+      - Avaliações: Disciplina/avaliacoes.md
+       
         
   - Iniciação: 
       - Index: Iniciacao/index.md

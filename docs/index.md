@@ -12,7 +12,7 @@ hide:
 
     ---
 
-    Lucas de Souza Alcantara, João Gabriel Teodósio de Oliveira Lima, Roger dos Santos Tavares Pires, Letícia Rocha Valladão, Vinícius Dias Lopes Machado Martinez
+    Lucas Alcantara, João Gabriel Lima, Roger Pires, Letícia Valladão, Vinícius Martinez
 
     [:octicons-arrow-right-24: Repositório](https://github.com/Projetos-de-Extensao/PBE_26.1_8002_I)
 
