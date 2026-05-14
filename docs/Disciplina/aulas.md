@@ -10,6 +10,16 @@
 | __06__ - 02/04/26     | :material-check: Feriado |
 | __07__ - 09/04/26     | :material-check: [Engenharia de Requisitos](..//assets/Aulas/Engenharia%20de%20Requisitos_Cap05.pdf)  <br> - [Análise OO e UML](../assets/Aulas/AnaliseOO&UML.pdf) <br> - Diagrama de Casos de Uso <br> - [Classes](../assets/Aulas/Classes_Pacotes.pdf) |
 | __08__ - 16/04/26     | :material-check: AP1    |
+| __09__ - 23/04/25     | :material-check: Feriado  |
+| __10__ - 30/04/25     | :material-check: Roteiro Django - Introdução Python OO  |
+| __11__ - 07/05/25     | :material-check: Teste de Progresso |
+| __12__ - 14/05/25     | :material-check: Roteiro Django Rest - Intro Python BD |
+| __13__ - 21/05/25     | :material-check: Roteiro Streaming - Content 1xN |
+| __14__ - 28/05/25     | :material-check: Roteiro Streaming - PlayList NxN - |
+| __15__ - 04/06/25     | :material-check: Feriado |
+| __16__ - 11/06/25     | :material-check: AP2 |
+| __17__ - 18/06/25     | :material-check: |
+| __18__ - 25/06/25     | :material-check: AS |
 <!--
 | __01__ - 06/08/25    | :material-check: Apresentação da Disciplina - Processo de Desenvolvimento <br> :material-check: Processo de Desenvolvimento -[Do Cascata ao Ágil](../assets/Aulas/Do%20Cascata%20ao%20Ágil.pdf) |
 | __02__ - 13/08/25     | :material-check: [Configuração de Ambiente de Desenvolvimento](https://liveestacio-my.sharepoint.com/:w:/g/personal/00661711722_professores_ibmec_edu_br/EU2fCcJwgTFLvWNyOSUtNWABAykAdvtuiY2eOTitau10zA?e=NyuXZm) <br> :material-check: Configuração repositório  |
