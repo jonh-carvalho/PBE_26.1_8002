@@ -17,6 +17,13 @@ nav:
             - Relacionamentos: Disciplina/Roteiros/Construcao/Streaming/05_Playlist_NxN.md
             - Shell: Disciplina/Roteiros/Construcao/Streaming/06_Shell.md
             - Swagger: Disciplina/Roteiros/Construcao/Streaming/07_Swagger.md
+            - CorsOrigin: Disciplina/Roteiros/Construcao/Streaming/08_CorsOrigin.md
+            - Consumo API: Disciplina/Roteiros/Construcao/Streaming/09_Consumo_API.md
+            - Admin: Disciplina/Roteiros/Construcao/Streaming/10_Admin.md
+            - Autenticação: Disciplina/Roteiros/Construcao/Streaming/12_Autenticacao.md
+            - Filtros: Disciplina/Roteiros/Construcao/Streaming/13_Filtros.md
+            - Implementação RN: Disciplina/Roteiros/Construcao/Streaming/14_Implementacao_RN.md
+            - Deploy: Disciplina/Roteiros/Construcao/Streaming/15_Deploy.md
       - Roteiros:
         - Iniciação:
           - DT: Disciplina/Roteiros/Iniciacao/04_DesignThinking.md
