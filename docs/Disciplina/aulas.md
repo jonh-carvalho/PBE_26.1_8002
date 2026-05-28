@@ -15,7 +15,7 @@
 | __11__ - 07/05/25     | :material-check: Teste de Progresso |
 | __12__ - 14/05/25     | :material-check: Roteiro Django Rest - Intro Python BD |
 | __13__ - 21/05/25     | :material-check: Roteiro Streaming - Content 1xN |
-| __14__ - 28/05/25     | :material-check: Roteiro Streaming - PlayList NxN - |
+| __14__ - 28/05/25     | :material-check: Roteiro Streaming - Autenticação |
 | __15__ - 04/06/25     | :material-check: Feriado |
 | __16__ - 11/06/25     | :material-check: AP2 |
 | __17__ - 18/06/25     | :material-check: |
